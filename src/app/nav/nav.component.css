@@ -1,0 +1,16 @@
+nav{ 
+    height:80px;
+    margin-bottom:0 !important;
+    border-bottom:0.5px solid black;
+}
+nav a { 
+ padding:10px 16px;
+ background:grey;
+ border-radius: 10px;
+ text-decoration:none;
+ display:flex;
+align-items: center;
+justify-content: center;
+color:#fff;
+}
+
